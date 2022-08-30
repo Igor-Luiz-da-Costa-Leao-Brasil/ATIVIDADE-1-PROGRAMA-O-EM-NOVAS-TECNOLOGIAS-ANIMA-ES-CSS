@@ -18,7 +18,3 @@ body {
     background-color: red;
     position :absolute;bottom: 600px;
     }
-
-.quadrado:hover{
-    background-color: blue;
-}
