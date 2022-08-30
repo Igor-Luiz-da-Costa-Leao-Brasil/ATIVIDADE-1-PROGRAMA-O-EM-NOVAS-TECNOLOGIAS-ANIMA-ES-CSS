@@ -15,24 +15,10 @@ body {
     width:200px;
     height:200px;
     border: 25px solid; 
-    border-color: #f00 #00f; 
     background-color: red;
     position :absolute;bottom: 600px;
     }
 
 .quadrado:hover{
-    background-color: salmon;
-    border-color: salmon cyan;
-}
-
-.circulo{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%; 
-    background-color: red;
-    margin: 50px; 
-}
-
-.circulo:hover{
-    background-color: salmon;
+    background-color: blue;
 }
